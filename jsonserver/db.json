@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "Hello",
+      "Content": "This is a test for the database",
+      "id": 1
+    },
+    {
+      "title": "Second",
+      "Content": "This is also a test for the database",
+      "id": 2
+    },
+    {
+      "title": "finally",
+      "Content": "we make asure that the data base is working fine thank you",
+      "id": 3
+    }
+  ]
+}
