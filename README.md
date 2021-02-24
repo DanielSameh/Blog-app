@@ -1,6 +1,6 @@
 # Blog-app
 
-<h1> To Run The App </h1>
+<h1> To Run The Application </h1>
 <div> 
         <h2> 1-  run command in jsonserver to start the database </h2>
         <p> npm run db      // To start the database </p>
